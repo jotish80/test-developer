@@ -4,6 +4,10 @@ body{
     box-sizing: border-box;
 }
 
+.paragraph{
+    margin-bottom: 10px;
+}
+
 .top-banner{
     display: flex;
     justify-content: center;
@@ -34,7 +38,7 @@ section{
 .main-button{
     padding: 15px 45px;
     text-decoration: none;
-    margin-top: 100px;
+    
     border-radius: 10px;
     background: linear-gradient(45deg, lightsalmon, tomato);
     color: white;
